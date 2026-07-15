@@ -1,0 +1,28 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+
+p {
+  background-color: #f4f4f4;
+  color: #ff0000;
+}
+
+.note {
+  font-size: 20px;
+}
+
+#id-selector-demo {
+  color: #008000;
+}
+
+li[value="4"] {
+  color: #0000ff;
+}
+
+* {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
